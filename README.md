@@ -68,8 +68,14 @@
     <img align="center" src="https://simpleicons.org/icons/gmail.svg" alt="gmail" height="30" width="40" />
   </a>
 </p>
+                                                                                                        
+<p align="left">
+  <a href="https://career.habr.com/irina_ais_90" target="blank">
+    <img alt="резюме" src="https://img.shields.io/badge/%D0%A0%D0%B5%D0%B7%D1%8E%D0%BC%D0%B5-HABR-critical?style=for-the-badge"/>
+  </a>
+</p>     
 
 <h2 align="left">Статистика</h2>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=irinaais&show_icons=true&locale=en&layout=compact" alt="irinaais" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=irinaais&show_icons=true&locale=en" alt="irinaais" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=irinaais&show_icons=true&locale=en" alt="irinaais" /></p>                                                                                                                                   
