@@ -64,7 +64,7 @@
   <a href="https://instagram.com/irina_osipova1990" target="blank">
     <img align="center" src="https://simpleicons.org/icons/instagram.svg" alt="instagram" height="30" width="40" />
   </a>
-  <a href="<a href="mailto:irinaais90@gmail.com" target="blank">
+  <a href="mailto:irinaais90@gmail.com" target="blank">
     <img align="center" src="https://simpleicons.org/icons/gmail.svg" alt="gmail" height="30" width="40" />
   </a>
 </p>
