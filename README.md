@@ -74,6 +74,6 @@
 </p>     
 
 <h2 align="left">Статистика</h2>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=irinaais&show_icons=true&locale=en&layout=compact" alt="irinaais" /></p>
+<p><img align="left" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=irinaais&show_icons=true&locale=en&layout=compact" alt="irinaais" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=irinaais&show_icons=true&locale=en" alt="irinaais" /></p>                                                                                                                                   
+<p>&nbsp;<img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=irinaais&show_icons=true&locale=en" alt="irinaais" /></p>                                                                                                                                   
