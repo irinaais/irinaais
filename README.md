@@ -57,13 +57,13 @@
 <h2 align="left">Контакты</h2>
 <p align="left">
   <a href="https://telegram.im/@Iris57" target="blank">
-    <img align="center" src="https://simpleicons.org/icons/telegram.svg" alt="telegram" height="30" width="40" />
+    <img align="center" src="https://user-images.githubusercontent.com/94970622/214825222-183351b0-5b5c-444c-b459-512181d8fc48.png" alt="telegram" height="30" width="30" />
   </a>
   <a href="https://instagram.com/irina_osipova1990" target="blank">
-    <img align="center" src="https://simpleicons.org/icons/instagram.svg" alt="instagram" height="30" width="40" />
+    <img align="center" src="https://user-images.githubusercontent.com/94970622/214824999-0ba97f78-7720-4f12-852d-e2b9d07aa197.png" height="30" width="30" />
   </a>
   <a href="mailto:irinaais90@gmail.com" target="blank">
-    <img align="center" src="https://simpleicons.org/icons/gmail.svg" alt="gmail" height="30" width="40" />
+    <img align="center" src="https://user-images.githubusercontent.com/94970622/214825481-dc54038e-5a13-46fa-9f82-d0cf4a435ed4.png" alt="gmail" height="30" width="30" />
   </a>
 </p>
                                                                                                         
