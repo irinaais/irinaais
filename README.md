@@ -69,9 +69,15 @@
                                                                                                         
 <p align="left">
   <a href="https://career.habr.com/irina_ais_90" target="blank">
-    <img alt="резюме" src="https://img.shields.io/badge/%D0%A0%D0%B5%D0%B7%D1%8E%D0%BC%D0%B5-HABR-critical?style=for-the-badge"/>
+    <img alt="резюме на Хабре" src="https://img.shields.io/badge/%D0%A0%D0%B5%D0%B7%D1%8E%D0%BC%D0%B5-HABR-critical?style=for-the-badge"/>
   </a>
-</p>     
+</p>
+
+<p align="left">
+  <a href="https://hh.ru/resume/89b2c115ff0ba369eb0039ed1f7a796a68525a" target="blank">
+    <img alt="резюме на Хэдхантере" src="https://img.shields.io/badge/%D0%A0%D0%B5%D0%B7%D1%8E%D0%BC%D0%B5-HH.ru-critical?style=for-the-badge"/>
+  </a>
+</p> 
 
 <h2 align="left">Статистика</h2>
 <p><img align="left" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=irinaais&show_icons=true&locale=en&layout=compact" alt="irinaais" /></p>
