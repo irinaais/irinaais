@@ -30,7 +30,10 @@
 <h2 >Pet Projects</h2>
 <p align="left">
   <a href="https://github.com/irinaais/movies-explorer-frontend" target="_blank">
-    <img alt="проект Movies Explorer" src="https://img.shields.io/badge/Movies--Explorer--frontend-cfbaf0?style=for-the-badge">
+    <img alt="проект Movies Explorer" src="https://img.shields.io/badge/Movies--Explorer--frontend-D8BFD8?style=for-the-badge">
+  </a>
+  <a href="https://github.com/irinaais/todo-list" target="_blank">
+    <img alt="проект todo-list" src="https://img.shields.io/badge/ToDo--list--Vanilla--JS--Version-cfbaf0?style=for-the-badge">
   </a>
   <a href="https://github.com/irinaais/movies-explorer-api" target="_blank">
     <img alt="сервер для проекта Movies Explorer" src="https://img.shields.io/badge/Movies--Explorer--backend-a3c4f3?style=for-the-badge">
