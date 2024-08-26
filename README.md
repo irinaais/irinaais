@@ -81,6 +81,9 @@
   <a href="https://github.com/irinaais/ToDo-Planner" target="_blank">
     <img alt="проект todo-list" src="https://img.shields.io/badge/ToDo--Planner--Vanilla--JS--Version-cfbaf0?style=for-the-badge">
   </a>
+  <a href="https://github.com/irinaais/posmotri_v_okno" target="_blank">
+    <img alt="Сайт Посмотри в окно" src="https://img.shields.io/badge/Posmotri--v--okno-CCCCFF?style=for-the-badge">
+  </a>
   <a href="https://github.com/irinaais/movies-explorer-api" target="_blank">
     <img alt="сервер для проекта Movies Explorer" src="https://img.shields.io/badge/Movies--Explorer--backend-a3c4f3?style=for-the-badge">
   </a>
