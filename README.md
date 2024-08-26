@@ -68,6 +68,9 @@
   <a href="https://github.com/irinaais/onlyTest" target="_blank">
     <img alt="Тестовое задание для Only" src="https://img.shields.io/badge/onlyTest-cfbaf0?style=for-the-badge">
   </a>
+  <a href="https://github.com/irinaais/3205_test" target="_blank">
+    <img alt="Тестовое задание для 3205.team" src="https://img.shields.io/badge/3205.team-a3c4f3?style=for-the-badge">
+  </a>
 </p>
 
 <h2 >Pet Projects</h2>
