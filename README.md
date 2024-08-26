@@ -93,11 +93,17 @@
   <a href="https://github.com/irinaais/mesto" target="_blank">
     <img alt="проект Mesto Vanilla JS Version" src="https://img.shields.io/badge/Mesto--Vanilla--JS--Version-8eecf5?style=for-the-badge">
   </a>
-  <a href="https://github.com/irinaais/russian-travel" target="_blank">
-    <img alt="проект Russian Travel" src="https://img.shields.io/badge/Russian--Travel-98f5e1?style=for-the-badge">
+    <a href="https://github.com/irinaais/ono-tebe-nado" target="_blank">
+    <img alt="сайт Оно тебе надо" src="https://img.shields.io/badge/Ono--Tebe--Nado-ACE5EE?style=for-the-badge">
   </a>
   <a href="https://github.com/irinaais/how-to-learn" target="_blank">
-    <img alt="проект How To Learn" src="https://img.shields.io/badge/How--To--Learn-b9fbc0?style=for-the-badge">
+    <img alt="проект How To Learn" src="https://img.shields.io/badge/How--To--Learn-98f5e1?style=for-the-badge">
+  </a>
+  <a href="https://github.com/irinaais/s-chistogo-lista" target="_blank">
+    <img alt="сайт С чистого листа" src="https://img.shields.io/badge/S--Chistogo--Lista-b9fbc0?style=for-the-badge">
+  </a>
+  <a href="https://github.com/irinaais/russian-travel" target="_blank">
+    <img alt="проект Russian Travel" src="https://img.shields.io/badge/Russian--Travel-A8E4A0?style=for-the-badge">
   </a>
 </p>
 <p>
