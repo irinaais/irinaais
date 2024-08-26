@@ -65,6 +65,9 @@
   <a href="https://github.com/irinaais/telegram-horoscope-app" target="_blank">
     <img alt="Гороскоп - мини приложение в телеграме" src="https://img.shields.io/badge/Telegram--Mini--App--Horoscope-D8BFD8?style=for-the-badge">
   </a>
+  <a href="https://github.com/irinaais/onlyTest" target="_blank">
+    <img alt="Тестовое задание для Only" src="https://img.shields.io/badge/onlyTest-cfbaf0?style=for-the-badge">
+  </a>
 </p>
 
 <h2 >Pet Projects</h2>
