@@ -114,22 +114,16 @@
 
 <h2 align="left">Контакты</h2>
 <p align="left">
-  <a href="https://telegram.im/@Iris57" target="blank">
+  <a href="https://telegram.im/@Irajse" target="blank">
     <img align="center" src="https://user-images.githubusercontent.com/94970622/214825222-183351b0-5b5c-444c-b459-512181d8fc48.png" alt="telegram" height="30" width="30" />
   </a>
-  <a href="mailto:irinaais90@gmail.com" target="blank">
+  <a href="mailto:iraschorohova@gmail.com" target="blank">
     <img align="center" src="https://user-images.githubusercontent.com/94970622/214825481-dc54038e-5a13-46fa-9f82-d0cf4a435ed4.png" alt="gmail" height="30" width="30" />
   </a>
-</p>
-                                                                                                        
-<p align="left">
-  <a href="https://career.habr.com/irina_ais_90" target="blank">
-    <img alt="резюме на Хабре" src="https://img.shields.io/badge/%D0%A0%D0%B5%D0%B7%D1%8E%D0%BC%D0%B5-HABR-critical?style=for-the-badge"/>
-  </a>
-</p>
+</p>                                                                     
 
 <p align="left">
-  <a href="https://hh.ru/resume/89b2c115ff0ba369eb0039ed1f7a796a68525a" target="blank">
+  <a href="https://hh.ru/resume/eb286e3dff0e80536f0039ed1f43707273786d" target="blank">
     <img alt="резюме на Хэдхантере" src="https://img.shields.io/badge/%D0%A0%D0%B5%D0%B7%D1%8E%D0%BC%D0%B5-HH.ru-critical?style=for-the-badge"/>
   </a>
 </p> 
