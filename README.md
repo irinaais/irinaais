@@ -126,6 +126,11 @@
   <a href="https://orel.hh.ru/resume/f374bebcff0ec370180039ed1f446858486339" target="blank">
     <img alt="резюме на Хэдхантере" src="https://img.shields.io/badge/%D0%A0%D0%B5%D0%B7%D1%8E%D0%BC%D0%B5-HH.ru-critical?style=for-the-badge"/>
   </a>
+</p>
+<p align="left">
+  <a href="https://career.habr.com/irina_ais_90" target="blank">
+    <img alt="резюме на Habr" src="https://img.shields.io/badge/%D0%A0%D0%B5%D0%B7%D1%8E%D0%BC%D0%B5-Habr-critical?style=for-the-badge"/>
+  </a>
 </p> 
 
 <h2 align="left">Статистика</h2>
